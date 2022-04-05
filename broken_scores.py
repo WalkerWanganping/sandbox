@@ -3,6 +3,8 @@ CP1404/CP5632 - Practical
 Broken program to determine score status
 """
 
+import random
+
 def score_check(score):
     score = float(input("Enter score: "))
     if score < 0:
@@ -17,3 +19,5 @@ def score_check(score):
         else:
             return "Bad"
 
+user_score = random.randint(1,100)
+print(score_check(user_score))
