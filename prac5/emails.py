@@ -26,4 +26,5 @@ def get_name(email):
     return name
 
 
-main()
+if __name__ == '__main__':
+    main()
