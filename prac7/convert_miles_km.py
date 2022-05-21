@@ -19,7 +19,7 @@ class MilesConverterApp(App):
         self.root = Builder.load_file('convert_miles_km.kv')
         return self.root
 
-    def handle_calculate(self, text):
+    def calculate_numbers(self, text):
         """Handle calculation (could be button press or other call)."""
         print("handle calculate")
         miles = self.convert_to_number(text)
