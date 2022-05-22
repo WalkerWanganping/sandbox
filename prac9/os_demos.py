@@ -1,6 +1,6 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-Demos of various os module examples
+CP1404 Prac9
+Wang Anping
 """
 import os
 

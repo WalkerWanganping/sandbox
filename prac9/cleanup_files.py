@@ -1,10 +1,6 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-Cleanup inconsistent song lyrics file names
-
-Note: A complete solution for this exercise is NOT provided.
-It's a very good thinking exercise and is less about the patterns we usually focus on
-and more of a "tricky" problem to solve.
+CP1404 Prac9
+Wang Anping
 """
 import os
 

@@ -1,6 +1,6 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-Sort files based on extension and user categorisation
+CP1404 Prac9
+Wang Anping
 """
 import os
 
