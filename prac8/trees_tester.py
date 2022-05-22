@@ -1,10 +1,8 @@
 """
-CP1404/CP5632 Practical
-Testing/example client code for trees classes
-When you complete all the subclasses, you'll see that they behave differently.
-
+CP1404 Prac8
+Wang Anping
 """
-import prac_08.trees as trees
+import prac8.trees as trees
 
 
 def main():

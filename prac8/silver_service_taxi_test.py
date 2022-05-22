@@ -1,9 +1,9 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-SilverServiceTaxi class tests
+CP1404 Prac8
+Wang Anping
 """
 
-from prac_08.silver_service_taxi import SilverServiceTaxi
+from prac8.silver_service_taxi import SilverServiceTaxi
 
 
 def main():

@@ -1,9 +1,9 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-SilverServiceTaxi class, derived from Taxi
+CP1404 Prac8
+Wang Anping
 """
 
-from prac_08.taxi import Taxi
+from prac8.taxi import Taxi
 
 
 class SilverServiceTaxi(Taxi):

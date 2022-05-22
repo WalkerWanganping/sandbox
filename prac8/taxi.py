@@ -1,9 +1,9 @@
 """
-CP1404/CP5632 Practical
-Taxi class, derived from Car
+CP1404 Prac8
+Wang Anping
 """
 
-from prac_08.car import Car
+from prac8.car import Car
 
 
 class Taxi(Car):

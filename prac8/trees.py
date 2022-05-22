@@ -1,7 +1,6 @@
 """
-CP1404/CP5632 Practical
-Tree class with inherited (specialised tree) classes
-Trevor Andersen
+CP1404 Prac8
+Wang Anping
 """
 import random
 

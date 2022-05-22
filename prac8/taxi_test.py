@@ -1,9 +1,9 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-Test taxi
+CP1404 Prac8
+Wang Anping
 """
 
-from prac_08.taxi import Taxi
+from prac8.taxi import Taxi
 
 
 def main():

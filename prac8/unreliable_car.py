@@ -1,10 +1,10 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-UnreliableCar class, derived from Car
+CP1404 Prac8
+Wang Anping
 """
 
 from random import randint
-from prac_08.car import Car
+from prac8.car import Car
 
 
 class UnreliableCar(Car):
